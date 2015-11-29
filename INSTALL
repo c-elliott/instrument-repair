@@ -1,0 +1,15 @@
+Installation
+------------
+
+1) Upload files into web root
+
+2) Create a MySQL database and import the included SQL Dump
+Example: mysql -U USER -PPASSWORD DBNAME < instrumentdb.sql
+
+3) Open dbconnect.php and enter the correct database details
+
+4) Go to http://yourserver/installdir and login
+
+Username: admin
+Password: admin
+
